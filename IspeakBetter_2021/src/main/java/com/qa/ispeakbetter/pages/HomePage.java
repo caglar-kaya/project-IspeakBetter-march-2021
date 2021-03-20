@@ -9,7 +9,7 @@ import com.qa.ispeakbetter.util.ElementUtil;
 
 public class HomePage extends BasePage {
 
-	// Fields
+	// Fields :
 	WebDriver driver;
 	ElementUtil elementUtil;
 	
