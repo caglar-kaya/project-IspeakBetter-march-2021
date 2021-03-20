@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104308" started-at="2021-03-07T20:30:02Z" finished-at="2021-03-07T20:31:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104308" started-at="2021-03-07T20:30:02Z" finished-at="2021-03-07T20:31:47Z">
+      <class name="com.qa.ispeakbetter.tests.VocabularyBasketPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="setUp" is-config="true" duration-ms="29793" started-at="2021-03-07T20:30:03Z" finished-at="2021-03-07T20:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnMessagesLinkTest()[pri:1, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="clickOnMessagesLinkTest" duration-ms="2562" started-at="2021-03-07T20:30:33Z" description="Messages Link Click Test" finished-at="2021-03-07T20:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMessagesLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="tearDown" is-config="true" duration-ms="5836" started-at="2021-03-07T20:30:35Z" finished-at="2021-03-07T20:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="setUp" is-config="true" duration-ms="27785" started-at="2021-03-07T20:30:41Z" finished-at="2021-03-07T20:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnSearchButtonTest()[pri:2, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="clickOnSearchButtonTest" duration-ms="1647" started-at="2021-03-07T20:31:09Z" description="Search Button Click Test" finished-at="2021-03-07T20:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSearchButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="tearDown" is-config="true" duration-ms="5916" started-at="2021-03-07T20:31:10Z" finished-at="2021-03-07T20:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="setUp" is-config="true" duration-ms="23540" started-at="2021-03-07T20:31:16Z" finished-at="2021-03-07T20:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTextVersionTest()[pri:3, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="getTextVersionTest" duration-ms="742" started-at="2021-03-07T20:31:40Z" description="Version Test" finished-at="2021-03-07T20:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTextVersionTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.VocabularyBasketPageTest@7219ec67]" name="tearDown" is-config="true" duration-ms="5934" started-at="2021-03-07T20:31:41Z" finished-at="2021-03-07T20:31:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.ispeakbetter.tests.VocabularyBasketPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

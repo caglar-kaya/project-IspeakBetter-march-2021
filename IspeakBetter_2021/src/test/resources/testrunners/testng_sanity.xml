@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Sanity suite">
+	<groups>
+		<run>
+			<include name = "sanity"/>
+		</run>
+	</groups>
+ 	<test thread-count="5" verbose="2" name="Sanity test">
+    	<classes>
+      		<class name="com.qa.ispeakbetter.tests.LoginPageTest">
+      		</class> <!-- com.qa.ispeakbetter.tests.LoginPageTest -->
+    	</classes>
+  	</test> <!-- Sanity test -->
+</suite> <!-- Sanity suite -->
+
+
